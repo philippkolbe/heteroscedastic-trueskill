@@ -1,0 +1,6 @@
+/data/
+/output/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
